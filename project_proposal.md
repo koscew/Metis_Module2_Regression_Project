@@ -1,26 +1,26 @@
 ### Project Proposal of Regression project
 Chien Yuan Chang
 #### Question/need:
-I am going to build a linear regression model to interpret the factors of the performances of the hitters in the MLB and/or predict the performances in the coming year. The On-base Plus Slugging Plus (OPS+) will be used as the label.
+I am going to build a linear regression model to interpret the factors of the performances of the batters in the MLB and/or predict the performances in the coming year. The On-base Plus Slugging Plus (OPS+) will be used as the label.
 
-The baseball franchises and fantasy baseball players can use this model to evaluate the hitters for next year, and the coach can use the result to help the hitters adjust batting types and improve their performances.
+The baseball franchises and fantasy baseball players can use this model to evaluate the hitters for next year, and the coach can use the result to help the batters adjust hitting types and improve their performances.
 
 >* What is the framing question of your analysis, or the purpose of the model/system you plan to build? 
 >* Who benefits from exploring this question or building this model/system?
 
 #### Data Description:
 * Dataset: 
-  * I will use the players data of the hitters who played more than 162 plate appearances in at least one single season between 2015 and 2019
+  * I will use the players data of the batters who played more than 162 plate appearances in at least one single season between 2015 and 2019
  
   * Rationality: 
       *  Each MLB team normally plays 162 games per year so 162 plate appearances will be at least one plate appearance per game
       *  The data of EV and HardH% have been recorded only since 2015
       *  Each MLB team only played 60 games in 2020 season due to the pandemic
   * Data size: 
-      * There were about 350 hitters over 162 plate appearances per year so there would be 681 unduplicated players with 2,117 data points within 5 years
+      * There were about 350 batters over 162 plate appearances per year so there would be 681 unduplicated players with 2,117 data points within 5 years
   * Data source:
       * Scraping the lists and stats of the hitters from 2015 to 2019 on the pages of [Yearly Major League Baseball Standard Batting Stats](https://www.baseball-reference.com/leagues/majors/2019-standard-batting.shtml) from the [Baseball Reference](https://www.baseball-reference.com/) 
-      * Scraping the Stats of Standard Batting, Advanced Batting, and Ratio Batting on the [player page](https://www.baseball-reference.com/players/) of each hitter who played more than 162 plate appearances in at least one single MLB season between 2015 and 2019 from the [Baseball Reference](https://www.baseball-reference.com/) 
+      * Scraping the Stats of Standard Batting, Advanced Batting, and Ratio Batting on the [player page](https://www.baseball-reference.com/players/) of each batter who played more than 162 plate appearances in at least one single MLB season between 2015 and 2019 from the [Baseball Reference](https://www.baseball-reference.com/) 
  
 * An individual sample/unit (total 64 columns):
 
