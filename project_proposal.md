@@ -17,7 +17,7 @@ The baseball franchises and fantasy baseball players can use this model to evalu
       *  The data of EV and HardH% have been recorded only since 2015
       *  Each MLB team only played 60 games in 2020 season due to the pandemic
   * Data size: 
-      * There were about 350 batters over 162 plate appearances per year so there would be 681 unduplicated players with 2,117 data points within 5 years
+      * There were about 350 batters over 162 plate appearances per year so there would be 681 unduplicated players with 1,925 data points within 5 years
   * Data source:
       * Scraping the lists and stats of the hitters from 2015 to 2019 on the pages of [Yearly Major League Baseball Standard Batting Stats](https://www.baseball-reference.com/leagues/majors/2019-standard-batting.shtml) from the [Baseball Reference](https://www.baseball-reference.com/) 
       * Scraping the Stats of Standard Batting, Advanced Batting, and Ratio Batting on the [player page](https://www.baseball-reference.com/players/) of each batter who played more than 162 plate appearances in at least one single MLB season between 2015 and 2019 from the [Baseball Reference](https://www.baseball-reference.com/) 
