@@ -3,7 +3,7 @@
 
 The goal of this project is to better understand which factors are most important in affecting the performances of the batters in the MLB, and how those factors relate to their On-base Plus Slugging Plus (OPS+).
 
-To start exploring this goal, I did the web scraping to get player data from the [Baseball Reference]('https://www.baseball-reference.com/') and also downloaded the statcast data on the [Baseball Savant]('https://baseballsavant.mlb.com/'). I used a linear regression model with 16 features to build the baseline model. R-squared was 0.441 and Adj. R-squared was 0.435. Below are the features and their coefficients and p-values
+To start exploring this goal, I did the web scraping to get player data from the [Baseball Reference](https://www.baseball-reference.com/) and also downloaded the statcast data on the [Baseball Savant](https://baseballsavant.mlb.com/). I used a linear regression model with 16 features to build the baseline model. R-squared was 0.441 and Adj. R-squared was 0.435. Below are the features and their coefficients and p-values.
 
 Features|Coefficient|P-Value
 :---|:---|:---|
