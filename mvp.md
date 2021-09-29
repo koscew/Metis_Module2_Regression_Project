@@ -7,22 +7,24 @@ To start exploring this goal, I did the web scraping to get player data from the
 
 Features|Coefficient|P-Value
 :---|:---|:---|
-Age|-0.9678|<0.001*
-Debut Season|5.1554|0.026*
+Hard Hit%|1.5415|<0.001*
+Line Drive%|1.4950|<0.001*
+Z-Contact%|1.2015|<0.001*
+Z-Swing%|0.5681|<0.001*
 Average OPS+ in previous 3 years |0.0571|<0.001*
 Average PA in previous 3 years|0.0152|<0.001*
-PA in previous year|0.0005|0.263
+Sprint Speed|2.1410|<0.001*
+Age|-0.9678|<0.001*
 Pitches per PA|10.8855|0.001*
-Hard Hit%|1.5415|<0.001*
-Average Launch Angle|-0.2104|0.356
-Line Drive%|1.4950|<0.001*
 GB/FB|-3.8673|0.001*
 Pull%|0.3385|0.005*
-Oppo%|0.0299|0.863
-Z-Swing%|0.5681|<0.001*
-Z-Contact%|1.2015|<0.001*
 O-Swing%|-0.3143|0.006*
-Sprint Speed|2.1410|<0.001*
+Debut Season|5.1554|0.026*
+PA in previous year|0.0005|0.263
+Average Launch Angle|-0.2104|0.356
+Oppo%|0.0299|0.863
+
+
 
 ![Diagnostic Plots of Baseline Model](images/baseline_diagnostic_plot.png)
 
