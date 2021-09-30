@@ -37,7 +37,7 @@ The goal of this project was to use linear regression model to interpret importa
     * **[Hard Hit%](https://www.mlb.com/glossary/statcast/hard-hit-rate)** minus **Barrel Batted%**
     * **Swing%**
     * **[Sprint Speed](https://www.mlb.com/glossary/statcast/sprint-speed)**(ft/sec)
-    * **Z-Swing%** times **Z-Contact%**
+    * **Z-Swing%** times **Z-Contact%** divided by 100
     * **Fly Ball%**
     * **Age** minus 17 (minimum age to play in MLB)
 
