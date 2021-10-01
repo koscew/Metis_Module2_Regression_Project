@@ -26,12 +26,14 @@ This is the second project of Metis Data Science Bootcamp. We're going to scrape
 
 ***
 
-<!-- 
+
 <details>
   <summary>Bonus</summary>
   
-![](images/)
-![](images/)
+#### 2020 Season  
+389 players >= 60 plate apperances  
+Adjust R-squared: 0.532
+MAE: 19.555
+![](images/2020_data_diagnostic.png)
 
 </details>
--->
