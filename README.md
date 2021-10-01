@@ -30,7 +30,7 @@ This is the second project of Metis Data Science Bootcamp. We're going to scrape
 <details>
   <summary>Bonus</summary>
   
-#### 2020 Season  
+#### 2020 Season (short season)
 389 players >= 60 plate apperances  
 Adjust R-squared: 0.532
 MAE: 19.555
