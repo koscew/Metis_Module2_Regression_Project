@@ -5,13 +5,6 @@ This is the second project of Metis Data Science Bootcamp. We're going to scrape
 
 ***
 
-[Project Proposal](project_proposal.md)
-
-***
-
-[MVP](mvp.md)
-
-***
 [Presentation Slides](final_presentation.pdf)
 
 [Project Writeup](project_writeup.md)
@@ -26,6 +19,13 @@ This is the second project of Metis Data Science Bootcamp. We're going to scrape
 
 ***
 
+[MVP](mvp.md)
+
+***
+
+[Project Proposal](project_proposal.md)
+
+***
 
 <details>
   <summary>Bonus</summary>
